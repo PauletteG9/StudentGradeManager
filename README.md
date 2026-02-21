@@ -1,6 +1,3 @@
-# StudentGradeManager
-A simple Python command-line application to manage student grades.
-
 # 🎓 Student Grade Manager (CLI App)
 
 A simple Python command-line application to manage student grades.
