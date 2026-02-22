@@ -18,7 +18,7 @@ A simple Python command-line application to manage student grades.
 2. Run: python main.py
 
 ## 📂 Project Structure
-- main.py
+- studentGradeManager.py
 - students.csv
 - README.md
 
